@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/viral/GitHub/mobileapp/assignment-2-virjog/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/viral/GitHub/mobileapp/assignment-2-virjog/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_8e55f705292d4f07ea55cfa401844c234beecdeb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/viral/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/viral/GitHub/mobileapp/assignment-2-virjog/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_5a02bc5f6f5e1e9782a6dc6b0ff722fdb3697488/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/viral/GitHub/mobileapp/assignment-2-virjog/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/viral/GitHub/mobileapp/assignment-2-virjog/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_8345a26bc47051420d04bdfc71697b9d34b1bb20/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/viral/android/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/viral/GitHub/mobileapp/assignment-2-virjog/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_4a7b668f46f7cd1d51e40724fd82909133d34ab1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/viral/GitHub/mobileapp/assignment-2-virjog/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/viral/GitHub/mobileapp/assignment-2-virjog/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_4e2e4b63cfe6c13c13caf955656a002925c862f0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/viral/GitHub/mobileapp/assignment-2-virjog/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/viral/GitHub/mobileapp/assignment-2-virjog/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_1e6c67de5b720720793743564986b3bae6351a21/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/viral/GitHub/mobileapp/assignment-2-virjog/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/viral/GitHub/mobileapp/assignment-2-virjog/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_a9224dd8bb0f29073572c2f0e7e9066ac15677a3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/viral/GitHub/mobileapp/assignment-2-virjog/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="9ff7cf5a4a10f2d36d0550a91a6aa558fbb18091">
+        <dex dex="/Users/viral/GitHub/mobileapp/assignment-2-virjog/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_cbb2d73f9356dc1e767625d56fe6cbc8787d1684/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/viral/GitHub/mobileapp/assignment-2-virjog/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/viral/GitHub/mobileapp/assignment-2-virjog/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_7febedc4a0b3a5c712080eb841910128c49ae19b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/viral/GitHub/mobileapp/assignment-2-virjog/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/viral/GitHub/mobileapp/assignment-2-virjog/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_d64a63c7dda840fd1782b2c6e980bed98530a18c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/viral/GitHub/mobileapp/assignment-2-virjog/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/viral/GitHub/mobileapp/assignment-2-virjog/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_36f73a257799c4fc858ee0436342936007502036/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/viral/GitHub/mobileapp/assignment-2-virjog/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/viral/GitHub/mobileapp/assignment-2-virjog/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_c79277d6d3bc86a0090d18b1c4a6471b21b2e0cf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/viral/GitHub/mobileapp/assignment-2-virjog/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/viral/GitHub/mobileapp/assignment-2-virjog/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_63e9fea4565158e4bb111b025ed891d4c7b4219e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/viral/GitHub/mobileapp/assignment-2-virjog/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/viral/GitHub/mobileapp/assignment-2-virjog/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_1af5c46fdb3da39aaf94fc3fcf4736f0192b34ac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/viral/GitHub/mobileapp/assignment-2-virjog/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/viral/GitHub/mobileapp/assignment-2-virjog/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_971a647371b455e394387ef93b3d47e4efe49801/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/viral/GitHub/mobileapp/assignment-2-virjog/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/viral/GitHub/mobileapp/assignment-2-virjog/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_34601760a1205ed72feb1b2ce54921999f687f47/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/viral/GitHub/mobileapp/assignment-2-virjog/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/viral/GitHub/mobileapp/assignment-2-virjog/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_3da9fb022027b50ca26cc007d446556e979f817c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/viral/GitHub/mobileapp/assignment-2-virjog/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="7f3137f6f2b401cbbd2c3f7270929c510dfa973a">
+        <dex dex="/Users/viral/GitHub/mobileapp/assignment-2-virjog/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4c67efd6aed0f3fbc760620ec25b2f8f2356ce40/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,62 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingTop="10dp"
+    android:paddingLeft="10dp"
+    android:paddingRight="10dp"
+    tools:context=".fragments.ProfileFragment"
+    android:id="@+id/profileFragment">
+
+    <TextView
+        android:text="Contact Profile"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textSize="21dp"
+        android:textColor="#000000"
+        android:textStyle="bold" />
+
+    <TextView
+        android:text="Name"
+        android:id="@+id/contactNameLabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true" />
+
+    <EditText
+        android:hint="Full Name"
+        android:id="@+id/contactNameInput"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:textAlignment="center" />
+
+    <TextView
+        android:text="Phone Number"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp" />
+
+    <EditText
+        android:hint="(555)-555-5555"
+        android:id="@+id/contactPhoneInput"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="phone"
+        android:textAlignment="center" />
+
+    <TextView
+        android:text="Relationships"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp" />
+
+    <ListView
+        android:id="@+id/relationshipListView"
+        android:layout_width="match_parent"
+        android:layout_height="160dp" />
+
+</LinearLayout>

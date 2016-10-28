@@ -1,0 +1,37 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.mobileapp.viral.contacts.fragments.ContactsFragment"
+    android:id="@+id/contactsFragment"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ListView
+        android:id="@+id/contactsListViewFrag"
+        android:layout_width="match_parent"
+        android:layout_height="310dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <Button
+            android:text="Add"
+            android:id="@+id/addContactBtnFrag"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true" />
+
+        <Button
+            android:text="Delete"
+            android:id="@+id/deleteContactBtnFrag"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true" />
+
+    </LinearLayout>
+
+</LinearLayout>
+
